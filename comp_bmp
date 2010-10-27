@@ -1,0 +1,4 @@
+g++ -g -c bmpio.c
+g++ -g -c readwrite.c
+g++ -o convit bmpio.o readwrite.o
+
