@@ -1,0 +1,43 @@
+#FIG 3.2  Produced by xfig version 3.2.5a
+Landscape
+Center
+Inches
+Letter  
+100.00
+Single
+-2
+1200 2
+2 2 0 1 0 8 50 -1 20 0.000 0 0 -1 0 0 5
+	 0 0 13125 0 13125 8400 0 8400 0 0
+4 0 6 50 -1 0 18 0.0000 4 255 2175 225 525 <F1>  Toggle Help\001
+4 0 6 50 -1 0 18 0.0000 4 255 2400 225 855 <F2>  Toggle Mouse\001
+4 0 6 50 -1 0 18 0.0000 4 255 2370 225 1185 <F3>  Toggle Lights\001
+4 0 6 50 -1 0 18 0.0000 4 255 2475 225 1515 <F4>  Toggle Legend\001
+4 0 6 50 -1 0 18 0.0000 4 255 2685 225 1845 <F5>  Curve Style Box\001
+4 0 6 50 -1 0 18 0.0000 4 255 2955 225 2175 <F6>  Light Position Box\001
+4 0 6 50 -1 0 18 0.0000 4 255 2820 225 2505 <F7>  Light Colour Box\001
+4 0 6 50 -1 0 18 0.0000 4 195 3180 225 2835 <F8>  Material Colour Box\001
+4 0 6 50 -1 0 18 0.0000 4 255 3240 225 3165 <F9>  Logical Variable Box\001
+4 0 6 50 -1 0 18 0.0000 4 255 3750 225 3495 <F10> Move Text/Numbers Box\001
+4 0 6 50 -1 0 18 0.0000 4 195 2235 225 3825 <F11> Screen Shot\001
+4 0 6 50 -1 0 18 0.0000 4 255 1080 2475 3825  (bitmap)\001
+4 0 6 50 -1 0 18 0.0000 4 255 2865 225 4125 <F12> Postscript Output\001
+4 0 6 50 -1 0 18 0.0000 4 255 11070 150 4950 Note:  These are the same for all the Plot-Files Programmes, since they all use XFiles/Controls.h\001
+4 0 6 50 -1 0 18 0.0000 4 15 675 150 5280          \001
+4 0 6 50 -1 0 18 0.0000 4 255 10155 975 5250 However, if the particular program does not use OpenGL Lighting for instance, the light\001
+4 0 6 50 -1 0 18 0.0000 4 255 10515 975 5580 position and colour boxes will not appear. Only those used by the partcular program appear.\001
+4 0 6 50 -1 0 18 0.0000 4 255 7920 150 6300 Note:  The arrow keys can be used with <ctrl>  and <shift> (but not \001
+4 0 6 50 -1 0 18 0.0000 4 255 3375 8100 6300 both). What these do depends\001
+4 0 6 50 -1 0 18 0.0000 4 255 10740 975 6600 on the program.  For instance, for Programs like PlotIt only <ctrl> left, <ctrl> right, up, down\001
+4 0 6 50 -1 0 18 0.0000 4 255 10200 975 6930 and <ctrl> up and down work.  For others like PlotSurf, it the arrow kew functionality is\001
+4 0 6 50 -1 0 18 0.0000 4 255 10830 975 7260 dependent on various boolean variables set in the header file. These can be altered manually or\001
+4 0 6 50 -1 0 18 0.0000 4 255 8055 975 7590 by using the Logical variable box. (Manually is better at the moment).\001
+4 0 6 50 -1 0 18 0.0000 4 255 4260 5925 525 'a'   Increase speed and angular speed\001
+4 0 6 50 -1 0 18 0.0000 4 255 2820 5925 855 'b'   Toggle transparency\001
+4 0 6 50 -1 0 18 0.0000 4 255 2310 5925 1185 'c'   Toggle contours\001
+4 0 6 50 -1 0 18 0.0000 4 255 1890 5925 1515 'g'   Toggle grids\001
+4 0 6 50 -1 0 18 0.0000 4 255 1860 5925 1845 'f'    Flipper Box\001
+4 0 6 50 -1 0 18 0.0000 4 255 2910 5925 2175 'shift f' Toggle full screen\001
+4 0 6 50 -1 0 18 0.0000 4 255 2220 5925 2550 't'    Toggle Picking\001
+4 0 6 50 -1 0 18 0.0000 4 255 4260 5925 2925 'z'   decrease speed and angular speed\001
+4 0 6 50 -1 0 18 0.0000 4 255 5235 5925 3255 '1'   and '2'  increment/decrement test number\001
